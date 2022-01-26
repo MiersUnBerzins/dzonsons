@@ -2,23 +2,33 @@
  "headers": [
    "Lietotāja vārds",
    "Pilsēta",
-   "Laikapstākļi"
+   "Laikapstākļi",
+   "Vējš m/s"
  ],
  "rows": [
   [
     "pienenīte",
     "Sigulda",
-    "miglains"
+    "miglains",
+    12
   ],
   [
     "Šerifsjānis",
     "Liepāja",
-    "saulains"
+    "saulains",
+    9
   ],
     [
     "Laimdota87",
     "Cēsis",
-    "miglains"
+    "miglains",
+    8
+  ],
+  [
+    "Dogman667",
+    "Mālpils",
+    "nomācies",
+    7
   ]
  ]
 }
