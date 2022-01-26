@@ -2,31 +2,23 @@
  "headers": [
    "Lietotāja vārds",
    "Pilsēta",
-   "Temperatūra",
-   "Laikapstākļi",
-   "Vējš m/s"
+   "Laikapstākļi"
  ],
  "rows": [
   [
     "pienenīte",
     "Sigulda",
-    -10,
     "miglains"
-    15
   ],
   [
     "Šerifsjānis",
     "Liepāja",
-    -14,
-    "saulains",
-    22
+    "saulains"
   ],
     [
     "Laimdota87",
     "Cēsis",
-    -13,
-    "miglains",
-    14
+    "miglains"
   ]
  ]
 }

@@ -1,5 +1,5 @@
 .table {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0, 1);
+  box-shadow: 0 0 10px rgba(blue, green, blue);
   border-collapse: collapse;
   font-family: 'Quicksand', sans-serif;
   overflow: hidden;
