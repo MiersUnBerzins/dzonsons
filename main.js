@@ -16,7 +16,7 @@ async function loadIntoTable(url, table) {
     tableHead.querySelector("tr").appendChild(headerElement);
   }
 
-  //rows
+  //rows parāda kādus elementus jāizveido
   for (const row of rows) {
     const rowElement = document.createElement("tr");
 
